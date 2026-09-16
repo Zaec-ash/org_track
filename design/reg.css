@@ -1,0 +1,388 @@
+/* ==========================================================================
+   TRAINER PORTAL — REGISTER
+   1. Fonts & Variables · 2. Layout · 3. Card · 4. Form · 5. Select
+   6. Terms & Button · 7. Links & Messages · 8. Responsive
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+    --tp-bg-deep:      #0a0b16;
+    --tp-bg-glow-a:    #14213d;
+    --tp-bg-glow-b:    #1a0f2e;
+    --tp-surface:      #14152b;
+    --tp-surface-alt:  #0e0f22;
+    --tp-border:       rgba(255, 255, 255, 0.08);
+    --tp-accent:       #4fd6ff;
+    --tp-accent-dark:  #1fa8d6;
+    --tp-accent-soft:  rgba(79, 214, 255, 0.14);
+    --tp-gold:         #ffcb52;
+    --tp-text:         #f1f3fa;
+    --tp-text-muted:   #8d95b3;
+    --tp-danger:       #ff6b6b;
+    --tp-success:      #5be8a8;
+
+    --font-display: 'Sora', -apple-system, sans-serif;
+    --font-body: 'Inter', -apple-system, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ==========================================================================
+   1. LAYOUT
+   ========================================================================== */
+.register-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 48px 20px;
+    background:
+        radial-gradient(circle at 15% 20%, var(--tp-bg-glow-a) 0%, transparent 45%),
+        radial-gradient(circle at 85% 80%, var(--tp-bg-glow-b) 0%, transparent 50%),
+        var(--tp-bg-deep);
+    font-family: var(--font-body);
+}
+
+/* ==========================================================================
+   2. CARD
+   ========================================================================== */
+.register-container {
+    max-width: 500px;
+    width: 100%;
+    background: linear-gradient(180deg, var(--tp-surface) 0%, var(--tp-surface-alt) 100%);
+    border-radius: 24px;
+    padding: 44px 38px;
+    box-shadow: 0 30px 70px rgba(0, 0, 0, 0.5), 0 0 0 1px var(--tp-border);
+    border: 1px solid var(--tp-border);
+    position: relative;
+    overflow: hidden;
+}
+
+.register-container::before {
+    content: '';
+    position: absolute;
+    top: -55%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 320px;
+    height: 320px;
+    background: radial-gradient(circle, var(--tp-accent-soft) 0%, transparent 70%);
+    pointer-events: none;
+}
+
+.register-header {
+    text-align: center;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.register-header h2 {
+    font-family: var(--font-display);
+    color: var(--tp-text);
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    letter-spacing: -0.01em;
+}
+
+.register-header p {
+    color: var(--tp-text-muted);
+    font-size: 14px;
+}
+
+/* ==========================================================================
+   3. FORM
+   ========================================================================== */
+.form-group {
+    margin-bottom: 20px;
+    width: 100%;
+    position: relative;
+}
+
+.form-group label {
+    display: block;
+    color: #c7cce0;
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 13px 16px;
+    border: 1.5px solid var(--tp-border);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.03);
+    color: var(--tp-text);
+    font-size: 15px;
+    font-family: inherit;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.form-group input::placeholder {
+    color: #565d78;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: var(--tp-accent);
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 0 0 4px var(--tp-accent-soft);
+}
+
+/* ==========================================================================
+   4. SELECT
+   ========================================================================== */
+.form-group select {
+    width: 100%;
+    padding: 13px 16px;
+    border: 1.5px solid var(--tp-border);
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.03);
+    color: var(--tp-text);
+    font-size: 15px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%234fd6ff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><polyline points='6 9 12 15 18 9'></polyline></svg>");
+    background-repeat: no-repeat;
+    background-position: right 16px center;
+    background-size: 16px;
+}
+
+.form-group select:hover {
+    border-color: var(--tp-accent);
+    transform: translateY(-1px);
+}
+
+.form-group select:focus {
+    outline: none;
+    border-color: var(--tp-accent);
+    box-shadow: 0 0 0 4px var(--tp-accent-soft);
+}
+
+.form-group select option {
+    background: var(--tp-surface);
+    color: var(--tp-text);
+    padding: 10px;
+}
+
+.form-group select option:hover,
+.form-group select option:checked {
+    background: var(--tp-accent);
+    color: #0a0b16;
+}
+
+.form-group select option[value=""] {
+    color: #6b7291;
+}
+
+.form-group select:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 var(--tp-text);
+}
+
+.form-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    width: 100%;
+}
+
+.password-requirements {
+    font-size: 11px;
+    color: var(--tp-text-muted);
+    margin-top: 5px;
+}
+
+/* ==========================================================================
+   5. TERMS & BUTTON
+   ========================================================================== */
+.terms-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 24px 0 20px;
+}
+
+.terms-checkbox input {
+    width: 18px;
+    height: 18px;
+    margin: 0;
+    cursor: pointer;
+    accent-color: var(--tp-accent);
+}
+
+.terms-checkbox label {
+    color: #b7bdd6;
+    font-size: 13px;
+    cursor: pointer;
+    margin: 0;
+}
+
+.terms-checkbox a {
+    color: var(--tp-accent);
+    text-decoration: none;
+}
+
+.terms-checkbox a:hover {
+    text-decoration: underline;
+}
+
+.register-btn {
+    width: 100%;
+    padding: 15px;
+    background: linear-gradient(135deg, var(--tp-accent) 0%, var(--tp-accent-dark) 100%);
+    color: #071018;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.18s ease;
+    box-shadow: 0 10px 26px rgba(79, 214, 255, 0.28);
+}
+
+.register-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 32px rgba(79, 214, 255, 0.4);
+}
+
+.register-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+/* ==========================================================================
+   6. LINKS & MESSAGES
+   ========================================================================== */
+.login-link {
+    text-align: center;
+    margin-top: 26px;
+    padding-top: 22px;
+    border-top: 1px solid var(--tp-border);
+}
+
+.login-link p {
+    color: var(--tp-text-muted);
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.login-link a {
+    color: var(--tp-accent);
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.login-link a:hover {
+    text-decoration: underline;
+}
+
+.error-message {
+    background: rgba(255, 107, 107, 0.12);
+    border: 1px solid rgba(255, 107, 107, 0.4);
+    color: #ff9d9d;
+    padding: 13px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.success-message {
+    background: rgba(91, 232, 168, 0.1);
+    border: 1px solid rgba(91, 232, 168, 0.4);
+    color: var(--tp-success);
+    padding: 13px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.field-error {
+    color: #ff9d9d;
+    font-size: 12px;
+    margin-top: 5px;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.password-wrapper {
+    position: relative;
+}
+
+.toggle-password {
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: var(--tp-text-muted);
+    font-size: 18px;
+    user-select: none;
+    transition: color 0.15s ease;
+}
+
+.toggle-password:hover {
+    color: var(--tp-accent);
+}
+
+/* ==========================================================================
+   7. RESPONSIVE
+   ========================================================================== */
+@media screen and (max-width: 768px) {
+    .register-container { padding: 32px 26px; }
+    .register-header h2 { font-size: 22px; }
+
+    .form-group input,
+    .form-group select {
+        padding: 11px 14px;
+        font-size: 14px;
+    }
+
+    .form-group select {
+        background-size: 14px;
+        background-position: right 13px center;
+    }
+
+    .register-btn { padding: 13px; font-size: 15px; }
+    .toggle-password { right: 13px; font-size: 16px; }
+}
+
+@media screen and (max-width: 480px) {
+    .register-container { padding: 26px 20px; }
+    .register-header h2 { font-size: 20px; }
+    .register-header p { font-size: 12px; }
+    .form-group label { font-size: 12px; }
+
+    .form-group input,
+    .form-group select {
+        padding: 10px 13px;
+        font-size: 13px;
+    }
+
+    .terms-checkbox label { font-size: 11px; }
+    .login-link p { font-size: 12px; }
+    .toggle-password { right: 13px; font-size: 14px; }
+}
+
+@media (hover: none) and (pointer: coarse) {
+    .form-group select { font-size: 16px; }
+    .register-btn, .toggle-password { min-height: 44px; }
+}

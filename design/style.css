@@ -1,0 +1,380 @@
+/* ==========================================================================
+   1. FONTS & VARIABLES
+   ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+    /* Brand */
+    --bsu-green:        #1f6d4c;
+    --bsu-green-dark:   #123a28;
+    --bsu-green-light:  #2f8c63;
+    --bsu-mint:         #e9f5ef;
+    --bsu-gold:         #c9a227;
+    --bsu-gold-dark:    #9c7e1c;
+
+    /* Legacy alias kept so any rule elsewhere referencing --bsu-light / --accent still resolves */
+    --bsu-light:        #f5f7f6;
+    --accent:           var(--bsu-green-light);
+
+    /* Neutrals */
+    --surface:          #ffffff;
+    --bg-page:          #f5f7f6;
+    --text-primary:     #16201b;
+    --text-secondary:   #5c6b63;
+    --border:           #dfe6e1;
+
+    /* Feedback */
+    --success:          #1f8a5f;
+    --warning:          #b7791f;
+    --danger:           #c0392b;
+
+    /* Elevation */
+    --shadow-sm: 0 1px 2px rgba(18, 40, 30, 0.06);
+    --shadow-md: 0 8px 24px rgba(18, 40, 30, 0.08);
+    --shadow-lg: 0 20px 48px rgba(18, 40, 30, 0.14);
+
+    /* Radii */
+    --radius-sm: 8px;
+    --radius-md: 14px;
+    --radius-lg: 22px;
+
+    /* Type */
+    --font-display: 'Source Serif 4', Georgia, serif;
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* ==========================================================================
+   2. RESET / BASE
+   ========================================================================== */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { margin: 0; padding: 0; }
+
+body {
+    font-family: var(--font-body);
+    margin: 0;
+    background: var(--bg-page);
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.6;
+}
+
+a { color: inherit; }
+
+::selection { background: var(--bsu-green); color: #fff; }
+
+/* ==========================================================================
+   3. NAVIGATION
+   ========================================================================== */
+.main-navbar {
+    background: linear-gradient(180deg, var(--bsu-green-dark) 0%, var(--bsu-green) 100%);
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.12);
+}
+
+.nav-brand a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav-logo {
+    height: 54px;
+    width: auto;
+    max-width: 220px;
+    object-fit: contain;
+    border-radius: 6px;
+}
+
+.nav-brand-text {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 1.5rem;
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+}
+
+/* ==========================================================================
+   4. HERO
+   ========================================================================== */
+.hero {
+    height: 70vh;
+    min-height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background:
+        linear-gradient(160deg, rgba(18, 58, 40, 0.92) 0%, rgba(31, 109, 76, 0.82) 60%, rgba(31, 109, 76, 0.55) 100%),
+        url('https://images.unsplash.com/photo-1523050335392-9ae574d64b32?auto=format&fit=crop&w=1500&q=80');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding: 0 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Huge faded logo watermark, sitting inside the hero itself so it's actually visible */
+.hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: url('../assets/images/SOAU-logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 900px;
+    opacity: 0.14;
+    mix-blend-mode: overlay;
+    filter: blur(1px);
+    pointer-events: none;
+    z-index: 0;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+}
+
+.hero-content h2 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 3.2rem;
+    line-height: 1.15;
+    margin-bottom: 16px;
+    letter-spacing: -0.01em;
+}
+
+.hero-content p {
+    font-family: var(--font-body);
+    font-size: 1.125rem;
+    max-width: 600px;
+    margin: 0 auto 34px;
+    line-height: 1.65;
+    color: rgba(255, 255, 255, 0.88);
+}
+
+/* ==========================================================================
+   5. BUTTONS
+   ========================================================================== */
+.btn {
+    padding: 13px 32px;
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    display: inline-block;
+    letter-spacing: 0.01em;
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+}
+
+.btn-primary {
+    background: #ffffff;
+    color: var(--bsu-green-dark);
+    box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+    border: 1.5px solid rgba(255, 255, 255, 0.75);
+    color: #ffffff;
+    background: transparent;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lg);
+}
+
+.btn-secondary:hover {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: #ffffff;
+}
+
+/* ==========================================================================
+   6. WORKFLOW / STEPS
+   ========================================================================== */
+.workflow {
+    padding: 88px 10%;
+    background: var(--surface);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.workflow::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 820px;
+    height: 820px;
+    max-width: 75vw;
+    max-height: 75vw;
+    transform: translate(-50%, -50%);
+    background-image: url('../assets/images/SOAU-logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.10;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.workflow h2,
+.steps-grid {
+    position: relative;
+    z-index: 1;
+}
+
+.workflow h2 {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    color: var(--text-primary);
+}
+
+.steps-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 28px;
+    margin-top: 48px;
+    text-align: left;
+}
+
+.step-card {
+    padding: 32px 28px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.step-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--bsu-green-light);
+}
+
+.step-number {
+    background: linear-gradient(135deg, var(--bsu-green) 0%, var(--bsu-green-dark) 100%);
+    color: #fff;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 18px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    box-shadow: 0 4px 12px rgba(31, 109, 76, 0.35);
+}
+
+/* ==========================================================================
+   7. RESOURCES
+   ========================================================================== */
+.resources {
+    padding: 72px 10%;
+    background: var(--bg-page);
+    position: relative;
+    overflow: hidden;
+}
+
+.resources::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 820px;
+    height: 820px;
+    max-width: 75vw;
+    max-height: 75vw;
+    transform: translate(-50%, -50%);
+    background-image: url('../assets/images/SOAU-logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.10;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.resources h2,
+.resource-grid {
+    position: relative;
+    z-index: 1;
+}
+
+.resources h2 {
+    font-family: var(--font-display);
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 1.9rem;
+    color: var(--text-primary);
+}
+
+.resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 22px;
+}
+
+.resource-card {
+    background: var(--surface);
+    padding: 28px 22px;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border);
+    text-align: center;
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.resource-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+}
+
+/* ==========================================================================
+   8. FOOTER
+   ========================================================================== */
+footer {
+    text-align: center;
+    padding: 36px;
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+}
+
+/* ==========================================================================
+   9. RESPONSIVE
+   ========================================================================== */
+@media (max-width: 768px) {
+    .hero-content h2 { font-size: 2.2rem; }
+    .hero-content p { font-size: 1rem; }
+    .workflow, .resources { padding: 56px 6%; }
+    .main-navbar { padding: 0 6%; }
+    .nav-logo { height: 44px; }
+    .nav-brand-text { font-size: 1.2rem; }
+}
+
+@media (max-width: 480px) {
+    .hero { min-height: 420px; padding: 0 16px; }
+    .hero-content h2 { font-size: 1.8rem; }
+    .btn { padding: 12px 24px; font-size: 0.9rem; }
+    .nav-logo { height: 38px; }
+    .nav-brand-text { font-size: 1.05rem; }
+}

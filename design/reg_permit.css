@@ -1,0 +1,565 @@
+/* ==========================================================================
+   1. FONTS & VARIABLES
+   ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+    --bsu-green:        #1f6d4c;
+    --bsu-green-dark:   #123a28;
+    --bsu-green-light:  #2f8c63;
+    --bsu-mint:         #e9f5ef;
+    --bsu-gold:         #c9a227;
+
+    --text-dark:        #16201b;
+    --text-muted:       #5c6b63;
+    --border-color:     #dfe6e1;
+    --bg-page:          #f5f7f6;
+    --surface:          #ffffff;
+
+    --campus-on:        #1f6d4c;
+    --campus-off:       #c1651b;
+
+    --info:             #2f6fa8;
+    --success:          #10925f;
+    --warning:          #b7791f;
+
+    --shadow-sm: 0 1px 2px rgba(18, 40, 30, 0.06);
+    --shadow-md: 0 10px 28px rgba(18, 40, 30, 0.10);
+    --shadow-lg: 0 24px 56px rgba(18, 40, 30, 0.18);
+
+    --font-display: 'Source Serif 4', Georgia, serif;
+    --font-body: 'Inter', -apple-system, sans-serif;
+}
+.field-error {
+    color: #991b1b;
+    font-size: 0.8rem;
+    margin-top: 4px;
+    min-height: 1em;
+}
+input.invalid-date {
+    border-color: #dc2626;
+}
+/* ==========================================================================
+   2. RESET / BASE
+   ========================================================================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--bg-page);
+    color: var(--text-dark);
+    padding: 48px 20px;
+    line-height: 1.55;
+}
+
+/* ==========================================================================
+   3. PORTAL CARD / HEADER
+   ========================================================================== */
+.portal-card {
+    background: var(--surface);
+    max-width: 900px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: var(--shadow-md);
+    overflow: hidden;
+    border: 1px solid var(--border-color);
+}
+
+.portal-header {
+    background: linear-gradient(135deg, var(--bsu-green-dark) 0%, var(--bsu-green) 100%);
+    padding: 26px 40px;
+    color: #ffffff;
+    position: relative;
+}
+
+.portal-header::after {
+    content: '';
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 3px;
+    background: var(--bsu-gold);
+}
+
+.portal-header h1 {
+    font-family: var(--font-display);
+    margin: 0;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+.portal-header p {
+    margin: 8px 0 0 0;
+    font-size: 0.875rem;
+    opacity: 0.88;
+}
+
+.user-info-bar {
+    background: var(--bsu-mint);
+    padding: 13px 40px;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.875rem;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.user-email {
+    color: var(--bsu-green-dark);
+    font-weight: 700;
+}
+
+.logout-link {
+    color: var(--bsu-green);
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.logout-link:hover {
+    text-decoration: underline;
+}
+
+.progress-bar {
+    background: #fafbfa;
+    padding: 13px 40px;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-weight: 700;
+    color: var(--bsu-green);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.pdf-actions {
+    display: flex;
+    gap: 12px;
+}
+
+.pdf-btn {
+    background: transparent;
+    border: 1.5px solid var(--bsu-green);
+    color: var(--bsu-green);
+    padding: 5px 13px;
+    border-radius: 7px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.18s ease, color 0.18s ease;
+}
+
+.pdf-btn:hover {
+    background: var(--bsu-green);
+    color: white;
+}
+
+.card-body {
+    padding: 44px;
+}
+
+.form-section {
+    margin-bottom: 40px;
+}
+
+.section-label {
+    display: block;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--bsu-green);
+    margin-bottom: 18px;
+    border-bottom: 2px solid var(--bsu-mint);
+    padding-bottom: 10px;
+}
+
+/* ==========================================================================
+   4. FORM ELEMENTS
+   ========================================================================== */
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+}
+
+.full-width {
+    grid-column: span 2;
+}
+
+.field-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+
+input, select, textarea {
+    padding: 12px 16px;
+    border: 1.5px solid var(--border-color);
+    border-radius: 10px;
+    font-size: 1rem;
+    background: #fff;
+    color: var(--text-dark);
+    font-family: inherit;
+    transition: border-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+input:focus, select:focus, textarea:focus {
+    outline: none;
+    border-color: var(--bsu-green);
+    box-shadow: 0 0 0 4px rgba(31, 109, 76, 0.13);
+}
+
+/* File uploads: style the actual browser "Choose File" button via
+   ::file-selector-button, since the generic input rule above only
+   affects the wrapper, not the native button. */
+input[type="file"] {
+    padding: 8px 10px;
+    background: #fafbfa;
+    cursor: pointer;
+}
+
+input[type="file"]:hover {
+    background: var(--bsu-mint);
+    border-color: var(--bsu-green-light);
+}
+
+input[type="file"]::file-selector-button {
+    padding: 9px 18px;
+    margin-right: 14px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(135deg, var(--bsu-green) 0%, var(--bsu-green-dark) 100%);
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 0.85rem;
+    font-family: inherit;
+    cursor: pointer;
+    transition: background-color 0.18s ease, transform 0.18s ease;
+}
+
+input[type="file"]::file-selector-button:hover {
+    background: var(--bsu-green-dark);
+    transform: translateY(-1px);
+}
+
+/* Older Safari/Chrome fallback (pre-standard property name) */
+input[type="file"]::-webkit-file-upload-button {
+    padding: 9px 18px;
+    margin-right: 14px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(135deg, var(--bsu-green) 0%, var(--bsu-green-dark) 100%);
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 0.85rem;
+    cursor: pointer;
+}
+
+.required {
+    color: #c0392b;
+    margin-left: 2px;
+}
+
+.hint-text {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 4px;
+}
+
+/* ==========================================================================
+   5. CAMPUS SELECTOR
+   ========================================================================== */
+.campus-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+
+.campus-card {
+    border: 2px solid var(--border-color);
+    border-radius: 14px;
+    padding: 22px 20px;
+    cursor: pointer;
+    transition: transform 0.2s ease, border-color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+    text-align: center;
+    background: #fafbfa;
+}
+
+.campus-card:hover {
+    border-color: var(--bsu-green);
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-sm);
+}
+
+.campus-card.selected {
+    border-color: var(--bsu-green);
+    background: var(--bsu-mint);
+}
+
+.campus-card.on-campus.selected {
+    border-color: var(--campus-on);
+    background: #e9f5ef;
+}
+
+.campus-card.off-campus.selected {
+    border-color: var(--campus-off);
+    background: #fdf1e7;
+}
+
+.campus-icon {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.campus-title {
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+    color: var(--text-dark);
+}
+
+.campus-desc {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+.campus-note {
+    font-size: 0.75rem;
+    margin-top: 10px;
+    padding: 6px 10px;
+    border-radius: 6px;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.campus-note.requires {
+    background: #fdf3dd;
+    color: var(--warning);
+}
+
+/* ==========================================================================
+   6. SUB-FORM
+   ========================================================================== */
+.sub-form {
+    background: #fafcfb;
+    border: 1px dashed var(--bsu-green-light);
+    padding: 30px;
+    border-radius: 14px;
+    margin: 20px 0 0 0;
+    animation: slideDown 0.35s ease-out;
+}
+
+@keyframes slideDown {
+    from { opacity: 0; transform: translateY(-14px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* ==========================================================================
+   7. FOOTER / BUTTONS
+   ========================================================================== */
+.portal-footer {
+    padding: 26px 40px;
+    background: #fafbfa;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.btn {
+    padding: 13px 32px;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+    font-size: 0.875rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+}
+
+.btn-outline {
+    background: #fff;
+    color: var(--text-muted);
+    border: 1.5px solid var(--border-color);
+}
+
+.btn-outline:hover {
+    background: #f5f6f5;
+    border-color: var(--bsu-green-light);
+    color: var(--bsu-green-dark);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--bsu-green) 0%, var(--bsu-green-dark) 100%);
+    color: white;
+    box-shadow: 0 8px 18px rgba(31, 109, 76, 0.26);
+}
+
+.btn-primary:hover {
+    background: var(--bsu-green-dark);
+    cursor: pointer;
+    transform: translateY(-2px);
+    box-shadow: 0 12px 26px rgba(31, 109, 76, 0.34);
+}
+
+.btn-view {
+    background: var(--info);
+    color: white;
+}
+
+.btn-view:hover {
+    background: #245a89;
+    transform: translateY(-2px);
+}
+
+.btn-success {
+    background: var(--success);
+    color: white;
+}
+
+.btn-success:hover {
+    background: #0c7a4f;
+    transform: translateY(-2px);
+}
+
+.btn-warning {
+    background: var(--warning);
+    color: white;
+}
+
+.btn-warning:hover {
+    background: #96620f;
+    transform: translateY(-2px);
+}
+
+/* ==========================================================================
+   8. MISC
+   ========================================================================== */
+#others_container input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 8px;
+}
+
+.warning-box {
+    background: #fdf3dd;
+    border-left: 4px solid var(--warning);
+    padding: 16px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    font-size: 0.875rem;
+    color: #7a5710;
+}
+
+/* ==========================================================================
+   9. PDF MODAL
+   ========================================================================== */
+.pdf-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(15, 25, 20, 0.72);
+    z-index: 2000;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(2px);
+}
+
+.pdf-modal.active {
+    display: flex;
+    animation: fadeInModal 0.2s ease-out;
+}
+
+@keyframes fadeInModal {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.pdf-modal-content {
+    background: white;
+    border-radius: 18px;
+    width: 90%;
+    max-width: 900px;
+    max-height: 90vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: var(--shadow-lg);
+}
+
+.pdf-modal-header {
+    padding: 18px 26px;
+    background: var(--bsu-green-dark);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pdf-modal-body {
+    padding: 0;
+    overflow-y: auto;
+    flex: 1;
+    background: #4a5450;
+}
+
+.close-pdf-modal {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+    line-height: 1;
+    transition: opacity 0.15s ease;
+}
+
+.close-pdf-modal:hover {
+    opacity: 0.7;
+}
+
+.modal-buttons {
+    padding: 16px 26px;
+    background: #fafbfa;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+}
+
+iframe {
+    width: 100%;
+    height: 70vh;
+    border: none;
+}
+
+/* ==========================================================================
+   10. RESPONSIVE
+   ========================================================================== */
+@media (max-width: 640px) {
+    .card-body { padding: 24px; }
+    .portal-header, .progress-bar, .portal-footer, .user-info-bar { padding-left: 24px; padding-right: 24px; }
+    .form-grid { grid-template-columns: 1fr; }
+    .full-width { grid-column: span 1; }
+    .campus-options { grid-template-columns: 1fr; }
+    .modal-buttons { flex-direction: column; }
+}

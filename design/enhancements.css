@@ -1,0 +1,630 @@
+/* ==========================================================================
+   BSU ORG-TRACK — ENHANCEMENT COMPONENTS
+   Drop this file in alongside your existing stylesheets and link it after
+   them. Each section is independent — use only what you need. Usage notes
+   and required markup are documented above each component.
+   ==========================================================================
+   1. Dark Mode Variables & Toggle Switch
+   2. Scroll-Shrink Navbar
+   3. Glow / Magnetic Buttons
+   4. Animated Stat Counters (styling only — see enhancements.js for motion)
+   5. Radial Rating Gauge
+   6. Mini Sparkline
+   7. Activity Calendar View
+   8. Status Timeline Stepper
+   9. Filter Chips
+   10. Glassmorphic Announcement Banner
+   11. Redesigned File Upload Dropzone
+   12. Confetti Canvas Overlay
+   ========================================================================== */
+
+:root {
+    --bsu-green: #1f6d4c;
+    --bsu-dark: #123a28;
+    --bsu-mint: #e9f5ef;
+    --bsu-gold: #c9a227;
+    --text-dark: #16201b;
+    --text-muted: #5c6b63;
+    --border-color: #dfe6e1;
+    --bg-page: #f5f7f6;
+    --surface: #ffffff;
+    --info: #2f6fa8;
+    --approved: #10925f;
+    --pending: #b7791f;
+    --rejected: #c0392b;
+    --shadow-sm: 0 1px 2px rgba(18, 40, 30, 0.06);
+    --shadow-md: 0 8px 24px rgba(18, 40, 30, 0.10);
+    --shadow-lg: 0 20px 48px rgba(18, 40, 30, 0.16);
+    --font-display: 'Source Serif 4', Georgia, serif;
+    --font-body: 'Inter', -apple-system, sans-serif;
+}
+
+/* ==========================================================================
+   1. DARK MODE
+   Usage: add [data-theme="dark"] to <html> (via JS toggle in enhancements.js).
+   Markup for the switch:
+   <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+       <i class="fas fa-sun theme-icon-light"></i>
+       <i class="fas fa-moon theme-icon-dark"></i>
+   </button>
+   ========================================================================== */
+html[data-theme="dark"] {
+    --bg-page: #0e1512;
+    --surface: #17211c;
+    --text-dark: #eef3f0;
+    --text-muted: #9fb0a8;
+    --border-color: #2a352e;
+    --bsu-mint: #1c2e24;
+}
+
+html[data-theme="dark"] body {
+    background: var(--bg-page);
+    color: var(--text-dark);
+}
+
+html[data-theme="dark"] .info-card,
+html[data-theme="dark"] .table-card,
+html[data-theme="dark"] .portal-card,
+html[data-theme="dark"] .stat-card {
+    background: var(--surface);
+    border-color: var(--border-color);
+}
+
+.theme-toggle {
+    position: relative;
+    width: 46px;
+    height: 26px;
+    border-radius: 20px;
+    border: none;
+    background: rgba(255, 255, 255, 0.18);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 6px;
+    justify-content: space-between;
+    transition: background-color 0.25s ease;
+}
+
+.theme-toggle::before {
+    content: '';
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: white;
+    transition: transform 0.25s ease;
+    box-shadow: var(--shadow-sm);
+}
+
+html[data-theme="dark"] .theme-toggle::before {
+    transform: translateX(20px);
+}
+
+.theme-toggle i {
+    font-size: 0.65rem;
+    color: rgba(255, 255, 255, 0.8);
+    z-index: 1;
+}
+
+/* ==========================================================================
+   2. SCROLL-SHRINK NAVBAR
+   Usage: enhancements.js toggles class "navbar-scrolled" on .main-navbar
+   after ~40px of scroll.
+   ========================================================================== */
+.main-navbar {
+    transition: height 0.25s ease, box-shadow 0.25s ease, padding 0.25s ease;
+}
+
+.main-navbar.navbar-scrolled {
+    height: 58px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.22);
+}
+
+.main-navbar.navbar-scrolled .nav-logo {
+    height: 38px;
+}
+
+/* ==========================================================================
+   3. GLOW / MAGNETIC BUTTONS
+   Usage: add class "btn-glow" alongside your existing btn-primary class.
+   ========================================================================== */
+.btn-glow {
+    position: relative;
+    z-index: 1;
+    overflow: visible;
+}
+
+.btn-glow::after {
+    content: '';
+    position: absolute;
+    inset: -2px;
+    border-radius: inherit;
+    background: radial-gradient(circle, rgba(201, 162, 39, 0.55) 0%, transparent 70%);
+    opacity: 0;
+    z-index: -1;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    transform: scale(0.9);
+}
+
+.btn-glow:hover::after {
+    opacity: 1;
+    transform: scale(1.25);
+}
+
+/* ==========================================================================
+   4. ANIMATED STAT COUNTERS
+   Usage: <div class="stat-value" data-target="128">0</div>
+   enhancements.js animates the text content from 0 to data-target.
+   ========================================================================== */
+.stat-value.counting {
+    transition: transform 0.15s ease;
+}
+
+.stat-value.count-done {
+    animation: countPop 0.35s ease;
+}
+
+@keyframes countPop {
+    0%   { transform: scale(1); }
+    50%  { transform: scale(1.12); }
+    100% { transform: scale(1); }
+}
+
+/* ==========================================================================
+   5. RADIAL RATING GAUGE
+   Usage:
+   <div class="rating-ring" data-rating="79" style="--pct:79">
+       <span class="rating-ring-value">79%</span>
+   </div>
+   ========================================================================== */
+.rating-ring {
+    --pct: 0;
+    --ring-size: 56px;
+    width: var(--ring-size);
+    height: var(--ring-size);
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background: conic-gradient(var(--bsu-green) calc(var(--pct) * 1%), var(--border-color) 0);
+    transition: background 0.6s ease;
+}
+
+.rating-ring::before {
+    content: '';
+    position: absolute;
+    inset: 5px;
+    border-radius: 50%;
+    background: var(--surface);
+}
+
+.rating-ring-value {
+    position: relative;
+    z-index: 1;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--text-dark);
+}
+
+.rating-ring.low   { --ring-color: var(--rejected); }
+.rating-ring.mid   { --ring-color: var(--pending); }
+.rating-ring.high  { --ring-color: var(--approved); }
+
+/* ==========================================================================
+   6. MINI SPARKLINE
+   Usage: <div class="sparkline" data-points="4,8,6,10,14,9,16"></div>
+   enhancements.js renders an inline SVG polyline inside it.
+   ========================================================================== */
+.sparkline {
+    display: inline-block;
+    width: 90px;
+    height: 28px;
+    vertical-align: middle;
+}
+
+.sparkline svg {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+}
+
+.sparkline polyline {
+    fill: none;
+    stroke: var(--bsu-green);
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.sparkline circle {
+    fill: var(--bsu-gold);
+}
+
+/* ==========================================================================
+   7. ACTIVITY CALENDAR VIEW
+   Usage:
+   <div class="activity-calendar">
+       <div class="calendar-header">September 2026</div>
+       <div class="calendar-grid">
+           <div class="calendar-dow">Sun</div> ... (x7)
+           <div class="calendar-day">
+               <span class="calendar-date">5</span>
+               <span class="calendar-dot on-campus" title="CIS Org Fair"></span>
+           </div>
+           ...
+       </div>
+   </div>
+   ========================================================================== */
+.activity-calendar {
+    background: var(--surface);
+    border: 1px solid var(--border-color);
+    border-radius: 18px;
+    padding: 24px;
+    box-shadow: var(--shadow-sm);
+}
+
+.calendar-header {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--bsu-dark);
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+}
+
+.calendar-dow {
+    text-align: center;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    padding-bottom: 6px;
+}
+
+.calendar-day {
+    aspect-ratio: 1;
+    border-radius: 10px;
+    background: var(--bg-page);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6px 4px;
+    gap: 4px;
+    transition: background-color 0.15s ease;
+    cursor: default;
+}
+
+.calendar-day:hover {
+    background: var(--bsu-mint);
+}
+
+.calendar-day.empty {
+    background: transparent;
+}
+
+.calendar-date {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+
+.calendar-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.calendar-dot.on-campus  { background: var(--bsu-green); }
+.calendar-dot.off-campus { background: var(--bsu-gold); }
+.calendar-dot.pending    { background: var(--pending); }
+
+.calendar-legend {
+    display: flex;
+    gap: 18px;
+    justify-content: center;
+    margin-top: 18px;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+}
+
+.calendar-legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+/* ==========================================================================
+   8. STATUS TIMELINE STEPPER
+   Usage:
+   <div class="status-stepper">
+       <div class="step completed"><div class="step-circle">1</div><div class="step-label">Submitted</div></div>
+       <div class="step completed"><div class="step-circle">2</div><div class="step-label">Under Review</div></div>
+       <div class="step active"><div class="step-circle">3</div><div class="step-label">Approved</div></div>
+       <div class="step"><div class="step-circle">4</div><div class="step-label">Completed</div></div>
+   </div>
+   ========================================================================== */
+.status-stepper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 4px;
+    padding: 10px 0 4px;
+}
+
+.step {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+
+.step:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    top: 16px;
+    left: 50%;
+    width: 100%;
+    height: 3px;
+    background: var(--border-color);
+    z-index: 0;
+}
+
+.step.completed:not(:last-child)::after {
+    background: var(--bsu-green);
+}
+
+.step-circle {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--surface);
+    border: 3px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    position: relative;
+    z-index: 1;
+    transition: all 0.25s ease;
+}
+
+.step.completed .step-circle {
+    background: var(--bsu-green);
+    border-color: var(--bsu-green);
+    color: white;
+}
+
+.step.active .step-circle {
+    background: var(--bsu-gold);
+    border-color: var(--bsu-gold);
+    color: var(--bsu-dark);
+    box-shadow: 0 0 0 6px rgba(201, 162, 39, 0.2);
+}
+
+.step-label {
+    margin-top: 8px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: var(--text-muted);
+}
+
+.step.completed .step-label,
+.step.active .step-label {
+    color: var(--text-dark);
+}
+
+/* ==========================================================================
+   9. FILTER CHIPS
+   Usage:
+   <div class="filter-chips">
+       <button class="chip active" data-filter="all">All</button>
+       <button class="chip" data-filter="in-campus">In-Campus</button>
+       <button class="chip" data-filter="approved">Approved</button>
+   </div>
+   Give table rows a matching data-status / data-type attribute for
+   enhancements.js to filter against.
+   ========================================================================== */
+.filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.chip {
+    padding: 7px 16px;
+    border-radius: 30px;
+    border: 1.5px solid var(--border-color);
+    background: var(--surface);
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.18s ease;
+}
+
+.chip:hover {
+    border-color: var(--bsu-green);
+    color: var(--bsu-green);
+}
+
+.chip.active {
+    background: var(--bsu-green);
+    border-color: var(--bsu-green);
+    color: white;
+}
+
+/* ==========================================================================
+   10. GLASSMORPHIC ANNOUNCEMENT BANNER
+   Usage:
+   <div class="announcement-banner" id="announcementBanner">
+       <i class="fas fa-bullhorn"></i>
+       <span>Report submissions for August activities are due Sept 20.</span>
+       <button class="announcement-dismiss" aria-label="Dismiss">&times;</button>
+   </div>
+   ========================================================================== */
+.announcement-banner {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 20px;
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.55);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: var(--shadow-md);
+    color: var(--bsu-dark);
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    animation: bannerSlideIn 0.4s ease both;
+}
+
+@keyframes bannerSlideIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+
+.announcement-banner i {
+    color: var(--bsu-gold);
+    font-size: 1.1rem;
+    flex-shrink: 0;
+}
+
+.announcement-banner span { flex: 1; }
+
+.announcement-dismiss {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    line-height: 1;
+    cursor: pointer;
+    color: var(--text-muted);
+    padding: 4px;
+    transition: color 0.15s ease;
+}
+
+.announcement-dismiss:hover { color: var(--rejected); }
+
+.announcement-banner.dismissed {
+    animation: bannerSlideOut 0.3s ease forwards;
+}
+
+@keyframes bannerSlideOut {
+    to { opacity: 0; transform: translateY(-10px); height: 0; margin: 0; padding: 0; }
+}
+
+/* ==========================================================================
+   11. FILE UPLOAD DROPZONE
+   Usage:
+   <div class="upload-dropzone" id="uploadDropzone">
+       <input type="file" id="fileInput" hidden multiple>
+       <i class="fas fa-cloud-upload-alt"></i>
+       <p>Drag files here or <span class="upload-browse">browse</span></p>
+       <div class="upload-file-list" id="uploadFileList"></div>
+   </div>
+   ========================================================================== */
+.upload-dropzone {
+    border: 2px dashed var(--border-color);
+    border-radius: 16px;
+    padding: 36px 20px;
+    text-align: center;
+    background: var(--bg-page);
+    cursor: pointer;
+    transition: border-color 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.upload-dropzone i {
+    font-size: 2rem;
+    color: var(--bsu-green);
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.upload-dropzone p {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 0;
+}
+
+.upload-browse {
+    color: var(--bsu-green);
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.upload-dropzone.dragover {
+    border-color: var(--bsu-gold);
+    background: var(--bsu-mint);
+    box-shadow: 0 0 0 6px rgba(201, 162, 39, 0.12);
+}
+
+.upload-file-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 16px;
+    justify-content: center;
+}
+
+.upload-file-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--surface);
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    padding: 6px 12px;
+    font-size: 0.75rem;
+    color: var(--text-dark);
+    animation: chipPop 0.25s ease;
+}
+
+@keyframes chipPop {
+    from { opacity: 0; transform: scale(0.85); }
+    to   { opacity: 1; transform: scale(1); }
+}
+
+.upload-file-chip i { color: var(--bsu-green); }
+
+.upload-file-remove {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    line-height: 1;
+    padding: 0;
+}
+
+.upload-file-remove:hover { color: var(--rejected); }
+
+/* ==========================================================================
+   12. CONFETTI CANVAS OVERLAY
+   Usage: <canvas id="confettiCanvas"></canvas> once near end of <body>.
+   enhancements.js exposes window.fireConfetti() to trigger a burst.
+   ========================================================================== */
+#confettiCanvas {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9999;
+}

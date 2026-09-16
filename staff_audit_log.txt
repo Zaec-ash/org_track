@@ -1,0 +1,1285 @@
+[2026-08-08 05:26:21] Unknown Staff - Approved organization RSO-023 as new
+[2026-08-08 05:31:56] Unknown Staff - Approved organization RSO-023 as new
+[2026-08-08 05:32:22] Unknown Staff - Approved organization RSO-023 as new
+[2026-08-08 05:33:14] Unknown Staff - Approved organization RSO-023 as new
+[2026-08-08 05:33:28] Unknown Staff - Rejected organization 23. Reason: wedsdsdasdadadasdas
+[2026-08-08 05:33:56] Unknown Staff - Rejected organization 23. Reason: wedsdsdasdadadasdas
+[2026-08-08 05:39:43] Unknown Staff - Rejected organization 23. Reason: wedsdsdasdadadasdas
+[2026-08-08 05:40:10] Unknown Staff - Approved organization 23 as new
+[2026-08-08 05:40:21] Unknown Staff - Approved organization 23 as new
+[2026-08-08 05:40:27] Unknown Staff - Approved organization 23 as new
+[2026-08-08 05:40:40] Unknown Staff - Approved organization 23 as new
+[2026-08-08 05:40:41] Unknown Staff - Approved organization 23 as new
+[2026-08-08 05:40:42] Unknown Staff - Approved organization 23 as new
+[2026-08-08 05:45:40] Unknown Staff - Approved organization 23 as new
+[2026-08-08 06:06:19] Unknown Staff - Rejected organization 23. Reason: wala lang
+[2026-08-08 06:06:24] Unknown Staff - Rejected organization 23. Reason: wala lang
+[2026-08-08 06:07:25] Unknown Staff - Approved organization 23 as new
+[2026-08-08 06:07:27] Unknown Staff - Approved organization 23 as new
+[2026-08-08 06:08:54] Unknown Staff - Approved organization 23 as new
+[2026-08-08 06:08:54] Unknown Staff - Approved organization 23 as new
+[2026-08-08 06:09:09] Unknown Staff - Rejected organization 23. Reason: yokoo
+[2026-08-08 06:09:09] Unknown Staff - Rejected organization 23. Reason: yokoo
+[2026-08-08 06:09:41] Unknown Staff - Rejected organization 23. Reason: yokoo
+[2026-08-08 06:09:41] Unknown Staff - Rejected organization 23. Reason: yokoo
+[2026-08-08 06:09:46] Unknown Staff - Rejected organization 23. Reason: yokoo
+[2026-08-08 06:09:46] Unknown Staff - Rejected organization 23. Reason: yokoo
+[2026-08-08 06:11:15] Unknown Staff - Rejected organization 23. Reason: bleghh
+[2026-08-08 06:11:15] Unknown Staff - Rejected organization 23. Reason: bleghh
+[2026-08-08 06:11:25] Unknown Staff - Rejected organization 23. Reason: bleghh
+[2026-08-08 06:11:25] Unknown Staff - Rejected organization 23. Reason: bleghh
+[2026-08-08 06:11:51] Unknown Staff - Rejected organization 23. Reason: bleghh
+[2026-08-08 06:11:51] Unknown Staff - Rejected organization 23. Reason: bleghh
+[2026-08-08 06:12:18] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:12:31] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:14:22] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:14:22] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:14:35] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:15:45] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:16:34] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:17:10] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:17:30] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:18:42] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:19:21] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:19:47] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:20:22] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 06:21:01] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 09:03:54] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 09:08:03] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 09:08:03] Unknown Staff - Updated organization RSO-024 status to partial
+[2026-08-08 09:08:16] Unknown Staff - Rejected organization 23. Reason: bleghh
+[2026-08-08 09:08:16] Unknown Staff - Rejected organization 23. Reason: bleghh
+[2026-08-10 09:33:57] Unknown Staff - Rejected organization 23. Reason: wala lang
+[2026-08-10 09:33:57] Unknown Staff - Rejected organization 23. Reason: wala lang
+[2026-08-13 03:48:20] Unknown Staff - Updated organization 24 status to partial
+[2026-08-13 03:48:20] Unknown Staff - Updated organization 24 status to partial
+[2026-08-13 03:48:29] Unknown Staff - Updated organization 24 status to full
+[2026-08-13 03:48:29] Unknown Staff - Updated organization 24 status to full
+[2026-08-13 04:34:14] Unknown Staff - Rejected permit 0808-0002. Reason: ayoko
+[2026-08-13 04:48:13] Unknown Staff - Approved permit 0808-0002
+[2026-08-28 10:07:25] Unknown Staff - Updated organization 26 status to Probationary
+[2026-08-29 04:45:33] Unknown Staff - Approved permit 0828-0003
+[2026-08-29 04:45:42] Unknown Staff - Approved permit 0828-0003
+[2026-08-29 12:38:38] Dharlin ASUNCION - Generated report for activity type: Collection of Fees/Fines
+[2026-08-29 12:44:29] Dharlin ASUNCION - Logged In
+[2026-08-29 12:47:44] Dharlin ASUNCION - approved Permit #2 successfully!
+[2026-08-30 05:30:32] Unknown Staff - Logged In
+[2026-08-30 05:48:09] Unknown Staff - Updated organization 26 status to Conditional
+[2026-08-30 05:55:17] Unknown Staff - Logged In
+[2026-08-30 05:56:18] Unknown Staff - approved Permit #2 successfully!
+[2026-08-30 05:58:54] Unknown Staff - Logged In
+[2026-08-30 07:39:37] Unknown Staff - Logged In
+[2026-08-30 08:39:19] Unknown Staff - Logged In
+[2026-08-30 09:00:20] Unknown Staff - Logged In
+[2026-08-30 09:08:09] Unknown Staff - Logged In
+[2026-08-30 09:12:39] Dharlin ASUNCION - Logged In
+[2026-08-30 09:12:51] Dharlin ASUNCION - Updated organization 26 status to Full Recognition
+[2026-08-30 09:13:12] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: wala lang
+[2026-08-30 09:13:20] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: wala lang
+[2026-08-30 09:17:36] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: wala lang
+[2026-08-30 09:23:07] Jasmin Kingad - Access denied: 'jasmin@gmail.com' (role: organization) blocked from 'dashboard_staff'
+[2026-08-30 10:07:11] Dharlin ASUNCION - Logged In
+[2026-08-30 10:07:29] Dharlin ASUNCION - Approved organization 23 as Probationary
+[2026-08-31 08:46:09] Dharlin ASUNCION - Logged In
+[2026-08-31 08:47:14] Dharlin ASUNCION - Approved organization 33 as Probationary
+[2026-08-31 12:11:21] Dharlin ASUNCION - Logged In
+[2026-08-31 12:16:39] Dharlin ASUNCION - Logged In
+[2026-08-31 12:18:51] Dharlin ASUNCION - Logged In
+[2026-08-31 18:20:41] Dharlin ASUNCION - Logged In
+[2026-08-31 18:32:09] Dharlin ASUNCION - Logged In
+[2026-08-31 18:34:29] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:35:40] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:37:47] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:44:09] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:48:17] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:49:08] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:49:51] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:50:57] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:52:00] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:52:55] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:53:39] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:58:03] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 18:58:21] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 19:22:43] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 19:23:09] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 20:02:05] Dharlin ASUNCION - Rejected permit 0830-0004. Reason: ss
+[2026-08-31 20:02:13] Dharlin ASUNCION - Rejected organization 37. Reason: wala lang
+[2026-08-31 20:45:26] Dharlin ASUNCION - Rejected organization 37. Reason: DSA
+[2026-08-31 20:46:14] Dharlin ASUNCION - Rejected organization 37. Reason: EYYY
+[2026-08-31 20:49:52] Dharlin ASUNCION - Rejected organization 37. Reason: wala lang
+[2026-08-31 20:50:29] Dharlin ASUNCION - Rejected organization 35. Reason: za
+[2026-08-31 20:53:41] Dharlin ASUNCION - approved Permit #5 successfully!
+[2026-08-31 20:56:48] Dharlin ASUNCION - approved Permit #5 successfully!
+[2026-08-31 20:59:05] Dharlin ASUNCION - Evaluated report #8 for permit #0831-0005 with rating 99
+[2026-08-31 21:04:52] Dharlin ASUNCION - Evaluated report #10 for permit #0831-0005 with rating 99
+[2026-08-31 21:06:57] Dharlin ASUNCION - Evaluated report #12 for permit #0831-0005 with rating 11
+[2026-08-31 21:08:48] Dharlin ASUNCION - Evaluated report #14 for permit #0831-0005 with rating 1
+[2026-09-01 09:06:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:35] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:35] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:37] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-01 09:06:45] Dharlin ASUNCION - Logged In
+[2026-09-01 09:06:45] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:45] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:45] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:45] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:46] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:47] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:48] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:48] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:48] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:48] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:50] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:50] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:50] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:50] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:50] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:51] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:51] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:51] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:06:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:00] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-01 09:07:25] Dharlin ASUNCION - Logged In
+[2026-09-01 09:07:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:26] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:27] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:36] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:39] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:41] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:41] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:41] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:41] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:42] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:48] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:49] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:50] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:50] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:51] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:51] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:51] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:52] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:53] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:53] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:53] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:53] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:54] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:54] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:07:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:27] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:08:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:27] Dharlin ASUNCION - Logged In
+[2026-09-01 09:09:27] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:09:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:35] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:39] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:39] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:39] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:39] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:40] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:41] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:41] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:41] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:10:41] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:11] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:11] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:11] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:11] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:11] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:11] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:11] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:24] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:25] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:55] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:56] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:12:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:58] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:13:59] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:16] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:17] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:33] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:34] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:35] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:14:51] Dharlin ASUNCION - Logged In
+[2026-09-01 09:15:12] Dharlin ASUNCION - Logged In
+[2026-09-01 09:15:27] Dharlin ASUNCION - Logged In
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:37] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:15:38] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:12] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:13] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:31] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:16:32] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:09] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:10] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:18] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:19:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Logged In
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:05] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:06] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:07] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:08] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:14] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:15] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_organization'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:19] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:20] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:22] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:23] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:28] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:29] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:24:30] Dharlin ASUNCION - Access denied: 'admin@bsu.edu.ph' (role: staff) blocked from 'dashboard_staff'
+[2026-09-01 09:50:57] Dharlin ASUNCION - Logged In
+[2026-09-01 09:53:10] Dharlin ASUNCION - Logged In
+[2026-09-01 10:09:41] Dharlin ASUNCION - Updated staff account #38 status to able
+[2026-09-01 10:09:49] Dharlin ASUNCION - Updated staff account #38 status to disabled
+[2026-09-01 13:57:26] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-01 13:57:26] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-01 14:00:32] Dharlin ASUNCIONe - Logged In
+[2026-09-01 14:04:20] Dharlin ASUNCIONe - Evaluated report #16 for permit #0831-0005 with rating 69
+[2026-09-01 14:20:39] Dharlin ASUNCIONe - Triggered mass renewal for all organization accounts.
+[2026-09-01 14:50:21] Dharlin ASUNCIONe - Logged In
+[2026-09-01 15:06:27] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-01 15:27:55] Dharlin ASUNCIONe - Logged In
+[2026-09-01 15:28:32] Dharlin ASUNCIONe - Approved organization 26 as Conditional
+[2026-09-01 15:43:51] Dharlin ASUNCIONe - Logged In
+[2026-09-01 16:39:19] Dharlin ASUNCIONe - Updated approved permit: 0831-0005
+[2026-09-01 16:39:33] Dharlin ASUNCIONe - Updated approved permit: 0831-0005
+[2026-09-01 17:49:44] Dharlin ASUNCIONe - Logged In
+[2026-09-01 17:50:50] Staff - Logged In
+[2026-09-01 17:51:29] Staff - Updated organization 26 status to Full Recognition
+[2026-09-01 18:38:38] Staff - Purged all approved permits and associated files.
+[2026-09-01 18:53:57] Dharlin ASUNCION - Logged In
+[2026-09-01 18:55:18] Dharlin ASUNCION - Logged In
+[2026-09-01 18:55:33] Dharlin ASUNCION - Updated staff account #39 status to able
+[2026-09-01 18:57:43] Dharlin ASUNCION - Logged In
+[2026-09-01 19:10:53] Dharlin ASUNCION - Logged In
+[2026-09-01 19:11:21] Dharlin ASUNCION - Approved organization 46 as Probationary
+[2026-09-01 20:12:13] Dharlin ASUNCION - Logged In
+[2026-09-01 20:13:04] Dharlin ASUNCION - approved Permit #6 successfully!
+[2026-09-01 20:14:30] Dharlin ASUNCION - Logged In
+[2026-09-01 20:14:41] Dharlin ASUNCION - Evaluated report #18 for permit #09-06 with rating 69
+[2026-09-01 20:15:00] Dharlin ASUNCION - Updated approved permit: 09-06
+[2026-09-01 20:15:58] Dharlin ASUNCION - Logged In
+[2026-09-01 20:26:54] AD mine - Logged In
+[2026-09-01 20:26:56] AD mine - Logged In
+[2026-09-01 20:37:22] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-01 20:37:25] AD mine - Logged In
+[2026-09-01 21:16:58] AD mine - Updated approved permit: 09-06
+[2026-09-01 21:26:22] AD mine - Approved organization 47 as Probationary
+[2026-09-01 21:34:52] Unknown Staff - Access denied: anonymous request blocked from 'permit_registration'
+[2026-09-01 21:36:45] AD mine - Logged In
+[2026-09-01 21:36:46] AD mine - Logged In
+[2026-09-01 21:46:10] AD mine - Logged In
+[2026-09-01 21:56:31] ZAECc RAMIREZ - Access denied: 'zaecramirez@gmail.com' (role: organization) blocked from 'dashboard_staff'
+[2026-09-02 11:12:16] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-02 11:12:22] AD mine - Logged In
+[2026-09-02 11:28:58] Dharlin ASUNCIONe - Logged In
+[2026-09-02 11:42:50] admin@bsu.edu.ph - Logged In
+[2026-09-02 11:53:52] admin@bsu.edu.ph - Logged Out
+[2026-09-02 11:53:59] admin@bsu.edu.ph - Logged In
+[2026-09-02 11:56:56] admin@bsu.edu.ph - Rejected organization . Reason: wala alng
+[2026-09-02 11:58:34] admin@bsu.edu.ph - Rejected organization 36. Reason: wa
+[2026-09-02 12:01:14] admin@bsu.edu.ph - Rejected organization 36. Reason: gfghf
+[2026-09-02 12:02:44] admin@bsu.edu.ph - Rejected organization 36. Reason: dasdas
+[2026-09-02 12:04:42] admin@bsu.edu.ph - Rejected organization 36. Reason: dasdas
+[2026-09-02 12:30:08] admin@bsu.edu.ph - Rejected organization 36. Reason: baliw
+[2026-09-02 12:32:55] admin@bsu.edu.ph - Logged Out
+[2026-09-02 12:33:10] admin@bsu.edu.ph - Logged In
+[2026-09-02 12:35:03] admin@bsu.edu.ph - Rejected organization 34. Reason: adsdsad
+[2026-09-02 12:36:32] admin@bsu.edu.ph - Rejected organization CIS-PUSO. Reason: ayoko
+[2026-09-02 12:48:20] admin@bsu.edu.ph - Logged Out
+[2026-09-02 12:53:17] admin@bsu.edu.ph - Logged In
+[2026-09-02 12:54:12] admin@bsu.edu.ph - approved Permit #5 successfully!
+[2026-09-02 12:56:02] admin@bsu.edu.ph - approved Permit # successfully!
+[2026-09-02 13:03:01] admin@bsu.edu.ph - approved Permit #PUSO PARA SA MGA INAPI successfully!
+[2026-09-02 13:03:22] admin@bsu.edu.ph - Logged Out
+[2026-09-02 13:04:11] admin@bsu.edu.ph - Logged In
+[2026-09-02 13:04:50] admin@bsu.edu.ph - Evaluated report #18 for permit #0831-0005 with rating 10.98
+[2026-09-02 13:10:59] admin@bsu.edu.ph - Logged Out
+[2026-09-02 13:11:47] admin@bsu.edu.ph - Logged In
+[2026-09-02 13:16:47] admin@bsu.edu.ph - Logged Out
+[2026-09-02 13:17:56] admin@bsu.edu.ph - Logged In
+[2026-09-02 13:22:49] admin@bsu.edu.ph - Logged Out
+[2026-09-02 13:28:27] admin@bsu.edu.ph - Logged In
+[2026-09-02 14:11:28] admin@bsu.edu.ph - Logged Out
+[2026-09-02 14:12:04] admin@bsu.edu.ph - Logged In
+[2026-09-02 14:12:05] admin@bsu.edu.ph - Logged In
+[2026-09-02 14:22:33] admin@bsu.edu.ph - Logged Out
+[2026-09-02 14:24:22] admin@bsu.edu.ph - Logged In
+[2026-09-02 14:24:48] admin@bsu.edu.ph - Reject sadas, Reason: qwala lang 
+[2026-09-02 14:25:32] admin@bsu.edu.ph - approved Permit #sadas successfully!
+[2026-09-02 14:27:02] admin@bsu.edu.ph - Evaluated report #20 for permit #0831-0005 with rating 21
+[2026-09-02 14:28:29] admin@bsu.edu.ph - Evaluated report #20 for permit Title: PUSO PARA SA MGA INAPI with rating 11
+[2026-09-02 14:45:13] admin@bsu.edu.ph - Logged Out
+[2026-09-02 14:46:40] admin@bsu.edu.ph - Logged In
+[2026-09-02 15:04:51] admin@bsu.edu.ph - Logged Out
+[2026-09-02 15:04:59] admin@bsu.edu.ph - Logged In
+[2026-09-02 15:08:14] admin@bsu.edu.ph - Logged Out
+[2026-09-02 15:08:21] admin@bsu.edu.ph - Logged In
+[2026-09-02 15:34:13] admin@bsu.edu.ph - Logged In
+[2026-09-02 16:20:24] admin@bsu.edu.ph - Logged Out
+[2026-09-02 16:20:29] admin@bsu.edu.ph - Logged In
+[2026-09-02 16:20:35] admin@bsu.edu.ph - Logged Out
+[2026-09-02 16:51:38] admin@bsu.edu.ph - Logged Out
+[2026-09-02 16:56:40] admin@bsu.edu.ph - Logged In
+[2026-09-04 10:36:37] admin@bsu.edu.ph - Logged In
+[2026-09-04 10:36:54] admin@bsu.edu.ph - Logged Out
+[2026-09-04 11:10:09] admin@bsu.edu.ph - Logged In
+[2026-09-04 11:22:13] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:13] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:13] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:13] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:13] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:13] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:14] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:14] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:14] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:14] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:14] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:14] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:14] admin@bsu.edu.ph - Access denied: 'admin@bsu.edu.ph' (role: admin) blocked from 'dashboard_organization'
+[2026-09-04 11:22:23] admin@bsu.edu.ph - Logged Out
+[2026-09-05 10:32:16] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-05 10:50:57] admin@bsu.edu.ph - Logged In
+[2026-09-05 10:55:45] admin@bsu.edu.ph - Rejected organization: CIS. Reason: wala lang
+[2026-09-05 10:55:45] admin@bsu.edu.ph - Rejected organization: CIS. Reason: wala lang
+[2026-09-05 10:55:49] admin@bsu.edu.ph - Logged Out
+[2026-09-05 10:56:40] admin@bsu.edu.ph - Logged In
+[2026-09-05 10:59:58] admin@bsu.edu.ph - Rejected organization: CIS. Reason: s
+[2026-09-05 11:00:02] admin@bsu.edu.ph - Logged Out
+[2026-09-05 11:00:56] admin@bsu.edu.ph - Logged In
+[2026-09-05 11:02:18] admin@bsu.edu.ph - Rejected organization: CIS. Reason: dfs
+[2026-09-05 11:02:30] admin@bsu.edu.ph - Logged Out
+[2026-09-05 11:05:06] admin@bsu.edu.ph - Logged In
+[2026-09-05 11:05:18] admin@bsu.edu.ph - Rejected organization: CIS. Reason: sadsfd
+[2026-09-05 11:05:22] admin@bsu.edu.ph - Logged Out
+[2026-09-05 11:10:57] admin@bsu.edu.ph - Logged In
+[2026-09-05 11:12:08] admin@bsu.edu.ph - Rejected organization: CIS. Reason: dsfsd
+[2026-09-05 11:12:12] admin@bsu.edu.ph - Logged Out
+[2026-09-05 11:12:17] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-05 11:12:18] Unknown Staff - Access denied: anonymous request blocked from 'dashboard_staff'
+[2026-09-05 11:13:01] admin@bsu.edu.ph - Logged In
+[2026-09-05 11:14:46] admin@bsu.edu.ph - Approved organization CIS as Probationary
+[2026-09-05 11:25:05] admin@bsu.edu.ph - Updated organization  status to Probationary
+[2026-09-05 11:26:54] admin@bsu.edu.ph - Updated organization CIS status to Conditional
+[2026-09-05 11:27:56] admin@bsu.edu.ph - Updated organization  status to Conditional
+[2026-09-05 11:29:15] admin@bsu.edu.ph - Updated organization  status to Probationary
+[2026-09-05 11:35:48] admin@bsu.edu.ph - Updated organization  status to Probationary
+[2026-09-05 11:36:01] admin@bsu.edu.ph - Updated organization  status to Probationary
+[2026-09-05 11:36:06] admin@bsu.edu.ph - Updated organization  status to Probationary
+[2026-09-05 11:37:52] admin@bsu.edu.ph - Updated organization cis- status to Probationary
+[2026-09-05 11:38:03] admin@bsu.edu.ph - Updated organization cis-puso status to Probationary
+[2026-09-05 11:44:39] admin@bsu.edu.ph - Updated organization cis-pusodsfbjdsjfhgsdhkgfsdjfghshfkjsdhfgkjdjfgsjk status to Probationary
+[2026-09-05 12:19:54] admin@bsu.edu.ph - Logged Out
+[2026-09-05 12:49:51] admin@bsu.edu.ph - Logged In
+[2026-09-05 12:53:32] admin@bsu.edu.ph - approved Activity Permit Title: sadas successfully!
+[2026-09-05 12:55:56] admin@bsu.edu.ph - approved Activity Permit Title: sadas successfully!
+[2026-09-05 12:58:48] admin@bsu.edu.ph - approved Activity Permit Title: sadas successfully!
+[2026-09-05 12:59:50] admin@bsu.edu.ph - Logged Out
+[2026-09-05 13:00:49] admin@bsu.edu.ph - Logged In
+[2026-09-05 13:01:04] admin@bsu.edu.ph - approved Activity Permit Title: sadas1 successfully!
+[2026-09-05 13:12:15] admin@bsu.edu.ph - Logged Out
+[2026-09-05 13:29:43] admin@bsu.edu.ph - Logged In
+[2026-09-05 13:35:57] admin@bsu.edu.ph - Logged Out
+[2026-09-05 13:36:58] admin@bsu.edu.ph - Logged In
+[2026-09-05 13:37:49] admin@bsu.edu.ph - approved Activity Permit Title: sadas1 successfully!
+[2026-09-05 14:46:31] admin@bsu.edu.ph - Reject Activity: sadas1, Reason: wala lang Status changed to Resubmit 
+[2026-09-05 14:51:00] admin@bsu.edu.ph - approved Activity Permit Title: sadas1 successfully!
+[2026-09-05 14:51:52] admin@bsu.edu.ph - Reject Activity: sadas1, Reason: ayoko nga Status changed to Resubmit 
+[2026-09-05 14:55:01] admin@bsu.edu.ph - Reject Activity: sadas1, Reason: asqwd Status changed to Resubmit 
+[2026-09-05 15:04:46] admin@bsu.edu.ph - Reject Activity: sadas1, Reason: dasdas Status changed to Resubmit 
+[2026-09-05 15:12:38] admin@bsu.edu.ph - Reject Activity: sadas1, Reason: dasdas Status changed to Resubmit 
+[2026-09-05 15:13:15] admin@bsu.edu.ph - Reject Activity: sadas1, Reason: sadasda Status changed to Resubmit 
+[2026-09-05 15:17:02] admin@bsu.edu.ph - Rejected and Deleted Activity Permit: 'sadas1', Reason: hakdog
+[2026-09-05 16:08:13] admin@bsu.edu.ph - Logged Out
+[2026-09-05 16:52:06] admin@bsu.edu.ph - Logged In
+[2026-09-05 16:53:00] admin@bsu.edu.ph - Logged Out
+[2026-09-05 17:18:38] admin@bsu.edu.ph - Logged In
+[2026-09-05 17:49:00] admin@bsu.edu.ph - Evaluated report #32 for permit Title: sadas1 with rating 79
+[2026-09-05 17:53:35] admin@bsu.edu.ph - Evaluated report #32 for permit Title: sadas1 with rating 79
+[2026-09-05 18:05:41] admin@bsu.edu.ph - Evaluated report #32 for permit Title: sadas1 with rating 79
+[2026-09-05 18:09:46] admin@bsu.edu.ph - Evaluated report #32 for permit Title: sadas1 with rating 79
+[2026-09-05 18:15:29] admin@bsu.edu.ph - Evaluated report #32 for permit Title: sadas1 with rating 79
+[2026-09-05 18:19:07] admin@bsu.edu.ph - Evaluated report #32 for permit Title: sadas1 with rating 79
+[2026-09-05 18:22:21] admin@bsu.edu.ph - Evaluated report #32 for permit Title: sadas1 with rating 79
+[2026-09-05 18:24:15] admin@bsu.edu.ph - Evaluated report #32 for permit Title: sadas1 with rating 79
+[2026-09-05 18:24:23] admin@bsu.edu.ph - Logged Out
+[2026-09-05 18:28:58] admin@bsu.edu.ph - Logged In
+[2026-09-05 19:09:34] admin@bsu.edu.ph - Triggered mass renewal for all organization accounts.
+[2026-09-05 19:10:06] admin@bsu.edu.ph - Logged Out
+[2026-09-05 19:11:31] admin@bsu.edu.ph - Logged In
+[2026-09-05 19:12:25] admin@bsu.edu.ph - Approved organization cis as Probationary
+[2026-09-05 19:15:58] admin@bsu.edu.ph - Updated Staff profile
+[2026-09-05 19:16:55] admin@bsu.edu.ph - Logged Out
+[2026-09-05 20:04:10] zaramirez50@gmail.com - Access denied: 'zaramirez50@gmail.com' (role: organization) blocked from 'dashboard_staff'
+[2026-09-08 19:05:39] admin@bsu.edu.ph - Logged In
+[2026-09-10 10:40:42] admin@bsu.edu.ph - Logged In
+[2026-09-10 10:52:42] admin@bsu.edu.ph - Rejected organization: SIKAP PUSO. Reason: kulang ang files
+[2026-09-10 10:57:55] admin@bsu.edu.ph - Approved organization sipakpuso as Probationary
+[2026-09-10 11:41:57] admin@bsu.edu.ph - approved Activity Permit Title: WWADASDASDAS successfully!
+[2026-09-10 11:43:19] admin@bsu.edu.ph - approved Activity Permit Title: WWADASDASDAS successfully!
+[2026-09-10 11:45:40] admin@bsu.edu.ph - approved Activity Permit Title: WWADASDASDAS successfully!
+[2026-09-10 11:47:55] admin@bsu.edu.ph - Evaluated report #40 for permit Title: WWADASDASDAS with rating 89
+[2026-09-16 07:53:57] admin@bsu.edu.ph - Logged In
+[2026-09-16 08:02:14] admin@bsu.edu.ph - Logged Out
+[2026-09-16 08:07:32] admin@bsu.edu.ph - Logged In
+[2026-09-16 08:08:13] admin@bsu.edu.ph - Rejected and Deleted Activity Permit: 'wala lang', Reason: testing
+[2026-09-16 08:16:01] admin@bsu.edu.ph - Logged Out
+[2026-09-16 08:42:47] admin@bsu.edu.ph - Logged In
+[2026-09-16 08:44:05] admin@bsu.edu.ph - Rejected organization: MANGACLUB. Reason: wala lang
+[2026-09-16 08:44:06] admin@bsu.edu.ph - Rejected organization: MANGACLUB. Reason: wala lang
+[2026-09-16 08:45:47] admin@bsu.edu.ph - Logged Out
+[2026-09-16 09:38:32] admin@bsu.edu.ph - Logged In
+[2026-09-16 09:38:51] admin@bsu.edu.ph - Logged Out
+[2026-09-16 09:59:57] admin@bsu.edu.ph - Logged In
+[2026-09-16 10:00:27] admin@bsu.edu.ph - Evaluated report #40 for permit Title: WWADASDASDAS with rating 11
+[2026-09-16 10:00:41] admin@bsu.edu.ph - approved Activity Permit Title: Manga Reading part 21 successfully!
+[2026-09-16 10:01:02] admin@bsu.edu.ph - approved Activity Permit Title: Manga Reading part 21 successfully!
+[2026-09-16 10:03:19] admin@bsu.edu.ph - Rejected and Deleted Activity Permit: 'sadas', Reason: bakit ba
+[2026-09-16 10:04:09] admin@bsu.edu.ph - Logged Out
+[2026-09-16 10:18:56] admin@bsu.edu.ph - Logged In
+[2026-09-16 10:30:30] admin@bsu.edu.ph - Evaluated report #43 for permit Title: Manga Reading part 21 with rating 0
+[2026-09-16 10:51:28] admin@bsu.edu.ph - approved Activity Permit Title: WWADASDASDAS successfully!
+[2026-09-16 11:41:03] admin@bsu.edu.ph - Evaluated report #50 for permit Title: WWADASDASDAS with rating 0
+[2026-09-16 11:42:03] admin@bsu.edu.ph - Updated Staff profile
+[2026-09-16 11:52:15] admin@bsu.edu.ph - approved Activity Permit Title: Manga Reading part 21 successfully!
+[2026-09-16 11:58:36] admin@bsu.edu.ph - approved Activity Permit Title: WWADASDASDAS successfully!
+[2026-09-16 12:01:38] admin@bsu.edu.ph - approved Activity Permit Title: Manga Reading part 21 successfully!
+[2026-09-16 12:01:49] admin@bsu.edu.ph - approved Activity Permit Title: Manga Reading part 21 successfully!
+[2026-09-16 13:23:38] admin@bsu.edu.ph - approved Activity Permit Title: WWADASDASDAS successfully!
+[2026-09-16 13:44:05] admin@bsu.edu.ph - Updated organization cis status to Probationary
+[2026-09-16 13:46:29] admin@bsu.edu.ph - Approved organization sipakpuso as Probationary
+[2026-09-16 14:32:50] admin@bsu.edu.ph - Evaluated report #56 for permit Title: WWADASDASDAS with rating 99
+[2026-09-16 14:33:15] admin@bsu.edu.ph - Updated organization sipakpuso status to Conditional
+[2026-09-16 14:37:28] admin@bsu.edu.ph - Logged Out
+[2026-09-16 14:37:36] admin@bsu.edu.ph - Logged In
+[2026-09-16 14:44:19] admin@bsu.edu.ph - Logged Out
+[2026-09-16 14:44:23] admin@bsu.edu.ph - Logged In
+[2026-09-16 14:44:37] admin@bsu.edu.ph - Logged Out
+[2026-09-16 14:44:42] admin@bsu.edu.ph - Logged In
+[2026-09-16 14:47:44] admin@bsu.edu.ph - Logged Out
+[2026-09-16 14:47:49] admin@bsu.edu.ph - Logged In
+[2026-09-16 14:54:54] admin@bsu.edu.ph - Updated organization sipakpuso status to Probationary
+[2026-09-16 15:02:46] admin@bsu.edu.ph - Updated staff account #53 status to able
+[2026-09-16 15:03:07] admin@bsu.edu.ph - Updated staff account #56 status to able
+[2026-09-16 15:05:55] admin@bsu.edu.ph - Logged Out
+[2026-09-16 15:06:04] zaecramirez112@bsu.edu.ph - Logged In
+[2026-09-16 15:06:19] zaecramirez112@bsu.edu.ph - Logged Out
+[2026-09-16 15:06:35] admin@bsu.edu.ph - Logged In
+[2026-09-16 15:25:22] admin@bsu.edu.ph - Updated Staff profile
+[2026-09-16 15:29:09] admin@bsu.edu.ph - Changed password
+[2026-09-16 15:29:30] admin@bsu.edu.ph - Logged Out
+[2026-09-16 15:29:47] admin@bsu.edu.ph - Logged In
+[2026-09-16 15:29:55] admin@bsu.edu.ph - Logged Out
+[2026-09-16 15:29:58] admin@bsu.edu.ph - Logged In
+[2026-09-16 15:49:29] admin@bsu.edu.ph - Updated organization sipakpuso status to Probationary
+[2026-09-16 15:50:44] admin@bsu.edu.ph - Generated report for activity type: Income Generating Activity
+[2026-09-16 15:51:04] admin@bsu.edu.ph - Generated report for activity type: Collection of Fees/Fines
+[2026-09-16 16:00:04] admin@bsu.edu.ph - Updated organization sipakpuso status to Probationary
+[2026-09-16 16:00:10] admin@bsu.edu.ph - Updated organization sipakpuso status to Conditional
+[2026-09-16 16:00:26] admin@bsu.edu.ph - Updated staff account #55 status to able
+[2026-09-16 16:00:37] admin@bsu.edu.ph - Updated staff account #55 status to disabled
+[2026-09-16 16:01:40] admin@bsu.edu.ph - Evaluated report #55 for permit Title: Manga Reading part 21 with rating 0
+[2026-09-16 16:09:53] admin@bsu.edu.ph - Approved organization CISeqweqw as Conditional
+[2026-09-16 16:44:49] admin@bsu.edu.ph - approved Activity Permit Title: Manga Reading1 successfully!
